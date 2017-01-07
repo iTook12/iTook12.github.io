@@ -1,129 +1,129 @@
 {
-  "mainCategory": "Psychology",
+  "mainCategory": "心理学",
   "data": [
     {
-      "word": "Sigmund Freud",
+      "word": "ジークムント・フロイト",
       "categories": [
-        "Psychology",
-        "Neurology"
+        "心理学",
+        "神経学"
       ],
       "pageview_rank": "A"
     },
     {
-      "word": "Ego",
+      "word": "自我",
       "categories": [
-        "Psychology",
-        "Films",
-        "Music"
+        "心理学",
+        "映画",
+        "音楽"
       ],
       "pageview_rank": "A"
     },
     {
-      "word": "Intelligence Quotient (IQ)",
+      "word": "IQ",
       "categories": [
-        "Psychology",
-        "Intelligence"
+        "心理学",
+        "知能"
       ],
       "pageview_rank": "A"
     },
     {
-      "word": "Ivan Pavlov",
+      "word": "イワン・パブロフ",
       "categories": [
-        "Psychology"
+        "心理学"
       ],
       "pageview_rank": "A"
     },
     {
-      "word": "Catharsis",
+      "word": "カタルシス",
       "categories": [
-        "Psychology",
-        "Poetics"
+        "心理学",
+        "詩"
       ],
       "pageview_rank": "B"
     },
     {
-      "word": "Alfred Binet",
+      "word": "アルフレッド・ビネット",
       "categories": [
-        "Psychology",
-        "Intelligence researchers"
+        "心理学",
+        "知能"
       ],
       "pageview_rank": "B"
     },
     {
-      "word": "Hypnosis",
+      "word": "催眠",
       "categories": [
-        "Psychology",
-        "Medical Treatments"
+        "心理学",
+        "医療"
       ],
       "pageview_rank": "B"
     },
     {
-      "word": "Insomnia",
+      "word": "不眠症",
       "categories": [
-        "Psychology",
-        "Disorders"
+        "心理学",
+        "障害"
       ],
       "pageview_rank": "B"
     },
     {
-      "word": "Libido",
+      "word": "リビドー",
       "categories": [
-        "Psychology"
+        "心理学"
       ],
       "pageview_rank": "C"
     },
     {
-      "word": "Metamemory",
+      "word": "メタメモリー",
       "categories": [
-        "Psychology",
-        "Memory"
+        "心理学",
+        "記憶"
       ],
       "pageview_rank": "C"
     },
     {
-      "word": "Refractory Period",
+      "word": "不応期",
       "categories": [
-        "Psychology",
-        "Physiology"
+        "心理学",
+        "生理"
       ],
       "pageview_rank": "C"
     },
     {
-      "word": "Retina",
+      "word": "網膜",
       "categories": [
-        "Psychology",
-        "Anatomy"
+        "心理学",
+        "解剖学"
       ],
       "pageview_rank": "C"
     },
     {
-      "word": "Cerebrum",
+      "word": "ブローカ野",
       "categories": [
-        "Psychology",
-        "Anatomy"
+        "心理学",
+        "解剖学"
       ],
       "pageview_rank": "D"
     },
     {
-      "word": "Medulla",
+      "word": "髄質",
       "categories": [
-        "Psychology",
-        "Anatomy"
+        "心理学",
+        "解剖学"
       ],
       "pageview_rank": "D"
     },
     {
-      "word": "Cochlea",
+      "word": "コクリア",
       "categories": [
-        "Psychology",
-        "Anatomy"
+        "心理学",
+        "解剖学"
       ],
       "pageview_rank": "D"
     },
     {
-      "word": "Solomon Asch",
+      "word": "ソロモン・アッシュ",
       "categories": [
-        "Psychology"
+        "心理学"
       ],
       "pageview_rank": "D"
     }
