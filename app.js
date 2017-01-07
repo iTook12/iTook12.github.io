@@ -1,4 +1,4 @@
-const categoryPointThreshold = 8;
+const categoryPointThreshold = 13;
 
 var app = new Vue({
   el: '#app',
@@ -52,6 +52,16 @@ var app = new Vue({
 
       // カテゴリ内最後の単語、次のカテゴリセットに移る。
       //  TODO: pageview_rankに対してカテゴリポイントが一定以下の場合
+      // ポイントに応じた分岐処理を書く
+      // var categoryPointSum;
+      // for (i = 1; i <= 4; i++) {
+      //   if (this.currentWordIndex == (4 * i) && this.results.data[category] < categoryPointSum + 13) {
+      //    this.currentWordIndex = 0;
+      //    this.loadData();
+      //  }
+      //   categoryPointSum = this.results.data[category];
+      // }
+
       if (!this.currentWordObject) {
         this.currentWordObject = { word: 'Loading...' };
         this.currentWordIndex = 0;
@@ -84,8 +94,12 @@ var app = new Vue({
 
         let data = google.visualization.arrayToDataTable(resultArray);
 
-        const options = {
-          title: 'あなたの知識',
+        var dynamicHeight = data.getNumberOfRows() * 30;
+        var chartHeight = dynamicHeight + 100;
+
+        var options = {
+          title: 'あなたの知識', 
+          height: chartHeight,
           chartArea: { width: '50%' },
           hAxis: {
             title: '知識ポイント',
