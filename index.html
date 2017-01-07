@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Application (Proto)</title>
+  <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+  <div id="app">
+
+    <h1>
+      iKnowThis
+    </h1>
+
+    <h3>
+      Do you know:
+    </h3>
+
+    <h2>
+      {{ currentWordObject.word }}
+    </h2>
+
+    <div>
+      <button @click="addPoint(0)"><i class="fa fa-thumbs-o-down fa-5x"></i></button>
+      <button @click="addPoint(3)"><i class="fa fa-hand-rock-o fa-5x"></i></button>
+      <button @click="addPoint(5)"><i class="fa fa-thumbs-o-up fa-5x"></i></button>
+    </div>
+
+    <br/>
+    <div>
+      <button @click="drawChart">RESULT</button> {{ totalWords }}
+    </div>
+
+    <div id="chart_div">
+
+    </div>
+
+
+  </div>
+  
+  <hr>
+
+  <div id="footer">sotsupro-v20170106</div>
+
+  <script type="text/javascript" src="libs/vue.min.js"></script>
+  <script type="text/javascript" src="libs/loader.js"></script>
+  <script type="text/javascript" src="libs/lodash.min.js"></script>
+  <script type="text/javascript" src="app.js"></script>
+</body>
+
+</html>

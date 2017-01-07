@@ -1,0 +1,131 @@
+{
+  "mainCategory": "Psychology",
+  "data": [
+    {
+      "word": "Sigmund Freud",
+      "categories": [
+        "Psychology",
+        "Neurology"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Ego",
+      "categories": [
+        "Psychology",
+        "Films",
+        "Music"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Intelligence Quotient (IQ)",
+      "categories": [
+        "Psychology",
+        "Intelligence"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Ivan Pavlov",
+      "categories": [
+        "Psychology"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Catharsis",
+      "categories": [
+        "Psychology",
+        "Poetics"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Alfred Binet",
+      "categories": [
+        "Psychology",
+        "Intelligence researchers"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Hypnosis",
+      "categories": [
+        "Psychology",
+        "Medical Treatments"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Insomnia",
+      "categories": [
+        "Psychology",
+        "Disorders"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Libido",
+      "categories": [
+        "Psychology"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Metamemory",
+      "categories": [
+        "Psychology",
+        "Memory"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Refractory Period",
+      "categories": [
+        "Psychology",
+        "Physiology"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Retina",
+      "categories": [
+        "Psychology",
+        "Anatomy"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Cerebrum",
+      "categories": [
+        "Psychology",
+        "Anatomy"
+      ],
+      "pageview_rank": "D"
+    },
+    {
+      "word": "Medulla",
+      "categories": [
+        "Psychology",
+        "Anatomy"
+      ],
+      "pageview_rank": "D"
+    },
+    {
+      "word": "Cochlea",
+      "categories": [
+        "Psychology",
+        "Anatomy"
+      ],
+      "pageview_rank": "D"
+    },
+    {
+      "word": "Solomon Asch",
+      "categories": [
+        "Psychology"
+      ],
+      "pageview_rank": "D"
+    }
+  ]
+}

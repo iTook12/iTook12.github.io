@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "word": "Sample3 A-1",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Sample3 A-2",
+      "categories": [
+        "SampleCat1",
+        "SampleCat3"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Sample3 A-3",
+      "categories": [
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Sample3 A-4",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2"
+      ],
+      "pageview_rank": "A"
+    },
+    {
+      "word": "Sample3 B-1",
+      "categories": [
+        "SampleCat1"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Sample3 B-2",
+      "categories": [
+        "SampleCat1"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Sample3 B-3",
+      "categories": [
+        "SampleCat1",
+        "SampleCat4",
+        "SampleCat5"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Sample3 B-4",
+      "categories": [
+        "SampleCat3",
+        "SampleCat4"
+      ],
+      "pageview_rank": "B"
+    },
+    {
+      "word": "Sample3 C-1",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Sample3 C-2",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Sample3 C-3",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Sample3 C-4",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "C"
+    },
+    {
+      "word": "Sample3 D-1",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "D"
+    },
+    {
+      "word": "Sample3 D-2",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "D"
+    },
+    {
+      "word": "Sample3 D-3",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "D"
+    },
+    {
+      "word": "Sample3 D-4",
+      "categories": [
+        "SampleCat1",
+        "SampleCat2",
+        "SampleCat3"
+      ],
+      "pageview_rank": "D"
+    }
+  ]
+}
