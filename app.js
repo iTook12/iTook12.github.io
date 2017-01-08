@@ -1,5 +1,3 @@
-const categoryPointThreshold = 13;
-
 var app = new Vue({
   el: '#app',
   data: {
@@ -19,6 +17,7 @@ var app = new Vue({
         .then(data => {
           this.categorySet = data;
           this.currentWordObject = this.categorySet[this.currentWordIndex];
+          // 現在サンプルデータのみ使用するので次処理実行用
           this.dev_jsonIndex++;
         })
         .catch(err => console.error(err))
