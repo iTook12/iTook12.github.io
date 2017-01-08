@@ -21,18 +21,26 @@
     </h3>
 
     <h2>
-      {{ currentWordObject.word }}
+      「{{ currentWordObject.word }}」
     </h2>
 
     <div>
-      <button @click="addPoint(0)"><i class="fa fa-thumbs-o-down fa-5x"></i></button>
-      <button @click="addPoint(3)"><i class="fa fa-hand-rock-o fa-5x"></i></button>
-      <button @click="addPoint(5)"><i class="fa fa-thumbs-o-up fa-5x"></i></button>
+      <button @click="addPoint(0)" class="buttonAnswer" id="no">
+        <i class="fa fa-thumbs-o-down fa-4x"></i><br>知らない…
+      </button>
+      <button @click="addPoint(3)" class="buttonAnswer" id="meh">
+        <i class="fa fa-hand-rock-o fa-4x"></i><br>聞いたことがある
+      </button>
+      <button @click="addPoint(5)" class="buttonAnswer" id="yes">
+        <i class="fa fa-thumbs-o-up fa-4x"></i><br>知ってる！
+      </button>
     </div>
 
-    <br/>
+    <br>
     <div>
-      <button @click="drawChart">RESULT</button> {{ totalWords }}
+      <button @click="drawChart" class="buttonResult">
+        結果表示
+      </button> {{ totalWords }}
     </div>
 
     <div id="chart_div">
@@ -41,10 +49,10 @@
 
 
   </div>
-  
-  <hr>
 
-  <div id="footer">sotsupro-v20170108</div>
+  <div id="footer">
+    <hr>sotsupro-v20170108
+  </div>
 
   <script type="text/javascript" src="libs/vue.min.js"></script>
   <script type="text/javascript" src="libs/loader.js"></script>

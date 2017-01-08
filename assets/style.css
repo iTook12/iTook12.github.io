@@ -1,3 +1,70 @@
 body{
-  text-align: center
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+button.buttonAnswer{
+  padding: 10px;
+  width: 130px;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.buttonAnswer i{
+  padding: 5px;
+}
+
+button#no{
+  background-color: #700;
+  color: #fff;
+}
+
+button#no:hover{
+  background-color: #d00;
+  transition: 0.3s;
+}
+
+button#meh{
+  background-color: #770;
+  color: #fff;
+}
+
+button#meh:hover{
+  background-color: #dd0;
+  transition: 0.3s;
+}
+
+button#yes{
+  background-color: #070;
+  color: #fff;
+}
+
+button#yes:hover{
+  background-color: #0d0;
+  transition: 0.3s;
+}
+
+button.buttonResult{
+  padding: 10px;
+  border: 0px;
+  border-radius: 3px;
+  background-color: #aaa;   
+}
+
+.buttonResult:hover{
+  background-color: #ddd;
+  transition: 0.3s;
+}
+
+#footer{
+  margin: 50px;
 }
